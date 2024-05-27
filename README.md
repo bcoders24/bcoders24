@@ -36,19 +36,20 @@ With expertise spanning both frontend and backend technologies, as well as cloud
 const bcoders = {
     pronouns: "They" | "Them",
     code: ["Javascript", "Python", "Dart", "Kotlin", "Java", "Swift", "SwiftUI"],
-    askMeAbout: ["web dev", "tech", "app dev", "content-creation", "machine-learning"],
+    askusAbout: ["web dev", "tech", "app dev", "ai", "machine-learning"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "Sanity", "Room DB"],
+            js: ["Node", "Express", "Python", "Django" "Sanity", "Room DB"],
         },
         mobileAppDevelopment: {
-            tech: ["Swift", "Kotlin","Flutter", "ReactNative"],
+            tech: ["Swift", "SwiftUI", "Kotlin","Flutter", "ReactNative"],
         },
-        databases: ["Mongo", "MySql", "SQLite"],
-        misc: ["Firebase", "open-cv"]
+        databases: ["Mongo", "MySql", "PostgreSQL", "SQLite"],
+        devOps: ["CI/CD Pipeline", "Jenkins", "Docker", "Terraform", "Fastlane"],
+        misc: ["ai", "openai", "lama", "Firebase", "open-cv"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "keeps changing",
+    architecture: ["monolithic", "microservices", "Progressive web applications", "Single page applications"],
+    currentFocus: "artificial intelligence",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
