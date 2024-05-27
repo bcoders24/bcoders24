@@ -1,8 +1,9 @@
 
-```markdown
+
 # BCODERS - Full-Stack Web & Mobile App Development Solutions with DevOps
 
-👋 Welcome to our GitHub profile! With expertise spanning both frontend and backend technologies, as well as cloud infrastructure and DevOps. Our mission is to craft secure, highly available, and high-performance applications and infrastructures while ensuring optimal cost management.
+👋 Welcome to our GitHub profile! 
+With expertise spanning both frontend and backend technologies, as well as cloud infrastructure and DevOps. Our mission is to craft secure, highly available, and high-performance applications and infrastructures while ensuring optimal cost management.
 
 ## Skills & Expertise
 
@@ -21,7 +22,7 @@
 - **Architecture**: Solutions Architecture, Deployment Automation, SQL/NoSQL databases
 
 ### Mobile App Development
-- **Technologies**: Flutter, iOS & Android
+- **Technologies**: Flutter, Swift, SwiftUI, React Native, Kotlin
 
 ### Additional Skills
 - **Programming Languages**: Python, Java, PHP, Node.js, Ruby
@@ -29,7 +30,7 @@
 - **Automation & Scripting**: Bash Script, Powershell
 - **Operating Systems**: Linux (Ubuntu/RedHat/CentOS)
 
-## A Little More About Me...
+## A Little More About us...
 
 ```javascript
 const bcoders = {
